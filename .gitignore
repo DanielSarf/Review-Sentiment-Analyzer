@@ -1,0 +1,4 @@
+.env
+Checkpoints/*
+Dataset/*
+__pycache__/*
